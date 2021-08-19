@@ -1,10 +1,9 @@
 
 # 0x00. Fix my code
 
--   _Foundations > More!_
 -   By Guillaume, CTO at Holberton School
--   Ongoing project - started 08-09-2021, must end by 08-23-2021 (in 11 days) - you're done with  0% of tasks.
--   Checker will be released at 08-19-2021 12:00 PM
+-   Ongoing project - started 08-09-2021, must end by 08-23-2021 (in 3 days) - you're done with  80% of tasks.
+-   Checker was released at 08-19-2021 12:00 PM
 -   QA review fully automated.
 
 ## Background Context
@@ -53,7 +52,7 @@ $
 -   Directory:  `0x00-challenge`
 -   File:  `0-fizzbuzz.py`
 
-Done?  Help  Get a sandbox
+Done?  Help  Check your code  Get a sandbox
 
 ### 1. Print square
 
@@ -98,7 +97,7 @@ $
 -   Directory:  `0x00-challenge`
 -   File:  `1-print_square.js`
 
-Done?  Help  Get a sandbox
+Done!  Help  Check your code  Get a sandbox
 
 ### 2. Sort
 
@@ -128,7 +127,7 @@ $
 -   Directory:  `0x00-challenge`
 -   File:  `2-sort.rb`
 
-Done?  Help  Get a sandbox
+Done!  Help  Check your code  Get a sandbox
 
 ### 3. User password
 
@@ -154,7 +153,7 @@ My tests should not print any error…
 -   Directory:  `0x00-challenge`
 -   File:  `3-user.py`
 
-Done?  Help  Get a sandbox
+Done!  Help  Check your code  Get a sandbox
 
 ### 4. Double linked list
 
